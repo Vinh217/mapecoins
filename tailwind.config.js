@@ -8,7 +8,9 @@ export default {
     extend: {
       backgroundImage: {
         'trump-mape': 'url("/assets/cropped-mAGApEPE2.png")',
-        'cloud': 'url("/assets/cloud-footer.svg")'
+        'cloud': 'url("/assets/cloud-footer.svg")',
+        'cloud-reserve': 'url("/assets/cloud-reserve.svg")',
+        'background-america': 'url("/assets/background.png")'
       },
       screens: {
         'sm': '640px',
