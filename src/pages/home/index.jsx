@@ -6,7 +6,7 @@ export default function Home() {
                     <div className="absolute left-0 right-0 top-[-700px] px-[16px]">
                         <div className="flex items-center justify-center flex-col md:flex-row">
                             <img
-                                src="/assets/cropped-MAPE-4.png"
+                                src="/assets/cropped-MAPE-4-eth.png"
                                 alt=""
                                 className="w-[600px]"
                             />
@@ -55,14 +55,14 @@ export default function Home() {
                         </div>
                     </div>
                     <div className="flex md:flex-row flex-col gap-[10px] md:gap-0 justify-center items-center absolute left-0 right-0 top-[1200px] md:top-[300px] px-[16px]">
-                        <div className="bg-base-eth border-[10px] border-[white] p-[10px] md:w-[586px] md:px-[40px]">
+                        <div className="bg-[#0D167C] border-[10px] border-[white] p-[10px] md:w-[586px] md:px-[40px]">
                             <div className="flex items-center flex-col p-[16px] justify-center">
-                                <div className="text-text-white text-[45px]">THE FIST STAYS UP!</div>
+                                <div className="text-[#ff0404] text-[45px]">THE FIST STAYS UP!</div>
                                 <div className="text-text-white text-[24px]">Many men, wish death upon Pepe, They say I’m just a frog, but I’m so much more, In the meme wars, I’m the one they adore, keep the gats away cause pepe here to stay.</div>
                             </div>
                         </div>
-                        <div className="border-[10px] rounded-r-[50px] border-[white]">
-                            <img src="/assets/cropped-mAGApEPE2.png" alt="" className="w-[500px] rounded-r-[40px]"/>
+                        <div className="border-[8px] rounded-r-[50px] border-[white]">
+                            <img src="/assets/fistup.png" alt="" className="w-[500px] rounded-r-[40px]"/>
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@ export default function Home() {
                 </div>
                 <div className="absolute bottom-0 w-full flex items-center justify-center flex-col py-[50px] px-[16px]">
                     <div className="text-center text-[43px] uppercase text-text-white">MAPENOMICS</div>
-                    <div className="text-center text-[31px] uppercase text-[#000000] break-all">0x683A4ac99E65200921f556A19dADf4b0214B5938</div>
+                    {/* <div className="text-center text-[31px] uppercase text-[#000000] break-all">0x683A4ac99E65200921f556A19dADf4b0214B5938</div> */}
                     <div className="flex justify-center pt-[100px]">
                     <div className="text-text-white w-full flex flex-col">
                         <div className="flex gap-[20px] items-center">
@@ -93,7 +93,7 @@ export default function Home() {
             <div className="relative min-h-screen bg-trump-mape bg-cover bg-fixed bg-center">
                 <div className="absolute top-0 bg-base-eth">
                     <div className="flex items-center justify-center px-[16px] md:px-[60px]">
-                        <div className="text-center text-[43px] uppercase text-text-white">
+                        <div className="text-center text-[43px] uppercase text-[#d0ff1e]">
                             NEVER SURRENDER • NEVER SURRENDER • NEVER SURRENDER
                             • NEVER SURRENDER
                         </div>
@@ -113,10 +113,10 @@ export default function Home() {
                 <div className="absolute top-[900px] w-full bg-base-eth pt-[100px]">
                     <div className="flex items-center justify-center px-[16px] md:px-[60px]">
                         <div className="text-[43px]">
-                            <div className="uppercase text-text-white">
+                            <div className="uppercase text-[#d0ff1e]">
                                 NEVER SURRENDER • NEVER SURRENDER •
                             </div>
-                            <div className="uppercase text-text-white">
+                            <div className="uppercase text-[#d0ff1e]">
                                 NEVER SURRENDER • NEVER SURRENDER
                             </div>
                             <div className="px-[60px] py-[30px] text-center text-[16px] text-text-white md:px-[16px]">

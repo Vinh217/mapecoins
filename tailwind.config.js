@@ -22,7 +22,7 @@ export default {
       colors: {
         'bg-base': '#000000',
         'text-white': '#ffffff',
-        'base-eth': '#1018DD'
+        'base-eth': '#605BFF'
       },
       boxShadow: {
         'xs': '0px 4.282px 52.456px 0px rgba(0, 7, 72, 0.12)',
