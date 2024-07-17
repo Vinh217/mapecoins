@@ -98,12 +98,12 @@ export default function Home() {
                             • NEVER SURRENDER
                         </div>
                     </div>
-                </div>
-                <img
+                    <img
                     src="/assets/cloud-reserve.svg"
                     alt=""
-                    className="absolute top-[510px] md:top-[120px]"
-                />
+                    className="absolute"
+                    />
+                </div>
                 <div className="absolute top-[190px] h-screen w-full bg-base-eth opacity-20" />
                 <img
                     src="/assets/cloud-footer.svg"
